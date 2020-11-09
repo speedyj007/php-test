@@ -1,0 +1,100 @@
+
+body{
+    background: #887979 !important;
+}
+
+h1{
+    font-family: "Schadow BT" !important;
+    text-align: center;
+}
+
+h5{
+    font-family: "Schadow BT" !important;
+    letter-spacing: 1px;
+}
+
+.hr1{
+    border-color:green;
+}
+.table .thead-dark th{
+    font-family: "Rockwell";
+    letter-spacing:1px;
+
+    text-align:center;
+    font-size: large;
+}
+
+.std{
+    text-align: center;
+
+}
+.status{
+    font-size: initial;
+}
+.table .thead-dark th:not(:last-child){
+    border-right:2px solid white;
+}
+span{
+    padding: 5px 5px;
+
+}
+
+td{
+    color: white;
+    font-size:medium;
+    font-family: Rockwell;
+    letter-spacing: 1px;
+    border-right:2px solid white;
+    border-bottom:2px solid white;
+}
+
+
+
+.col-6{
+    font-family: Rockwell;
+    text-align:center;
+
+}
+.col-6:not(:last-child) {
+    border-right:2px solid #6d3737;
+}
+
+.sub{
+    display:flex;
+    justify-content:center;
+    border:none;
+}
+
+.form-control.input-sm{
+    color: black;
+    font-size:small;
+}
+
+.subth{
+    font-size: medium !important;
+    border-right:2px solid white !important;
+    border-bottom:2px solid white !important;
+}
+th{
+    background: grey !important;
+    border-right:2px solid white !important;
+    border-bottom:2px solid white !important;
+}
+
+.l1{
+    color: white;
+    font-size: medium !important;
+    font-family: Rockwell;
+    letter-spacing: 1px;
+}
+
+.t1{
+    background: none;
+    border: none;
+    border-bottom: 2px solid white;
+    border-radius: 7px;
+    color: white !important;
+}
+.f1{
+    padding: 10px 15px;
+}
